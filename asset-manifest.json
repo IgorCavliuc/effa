@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/effa/static/css/main.d136da88.css",
+    "main.js": "/effa/static/js/main.5560b309.js",
+    "static/media/background.jpg": "/effa/static/media/background.07f96729e08469835778.jpg",
+    "static/media/group-72.svg": "/effa/static/media/group-72.827bcdb109dd03a5fb7dba6926d86c04.svg",
+    "static/media/solution.svg": "/effa/static/media/solution.8a4dec95fba27c7b03b58ce7f6607c2a.svg",
+    "static/media/dg_1-197-1-min.jpg": "/effa/static/media/dg_1-197-1-min.a786e62c8f5bf78a57fd.jpg",
+    "static/media/stick.png": "/effa/static/media/stick.d2c7697f43c049adf64a.png",
+    "static/media/alll-1.jpg": "/effa/static/media/alll-1.6e0aca1af2bc48d156ac.jpg",
+    "static/media/dishes.png": "/effa/static/media/dishes.145cf9056cc6f5c5f541.png",
+    "static/media/soap.png": "/effa/static/media/soap.1de98a478a4f34c0f326.png",
+    "static/media/Razzor-Brush.jpg": "/effa/static/media/Razzor-Brush.09584a9d6fa86d919298.jpg",
+    "static/media/razor.png": "/effa/static/media/razor.1a340e5180817c2c1064.png",
+    "static/media/glass.png": "/effa/static/media/glass.22f48e772cc29ab4e5e3.png",
+    "static/media/brush.png": "/effa/static/media/brush.9719111e813970209ad2.png",
+    "index.html": "/effa/index.html",
+    "main.d136da88.css.map": "/effa/static/css/main.d136da88.css.map",
+    "main.5560b309.js.map": "/effa/static/js/main.5560b309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d136da88.css",
+    "static/js/main.5560b309.js"
+  ]
+}
