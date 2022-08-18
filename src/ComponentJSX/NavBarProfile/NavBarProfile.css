@@ -1,7 +1,7 @@
 .NavBarProfile{
     box-sizing: border-box;
+    background: #3a48f5;
     height: 100vh;
-    background: #3a48f5;;
     width: 300px;
     text-align: center;
     display: flex;
@@ -24,7 +24,7 @@ line-height: 21px;
 
 }
 .nav li{
-    padding: 20px;
+    padding: 10px 0;
     color: white;
     font-size: 18px;
 font-weight: 400;
@@ -34,7 +34,7 @@ cursor: pointer;
 
 }
 .logOut a{
-    padding: 20px;
+    padding: 10px;
     color: white;
     font-size: 18px;
 font-weight: 400;
