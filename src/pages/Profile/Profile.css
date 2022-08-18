@@ -1,0 +1,12 @@
+.profile{
+
+}
+.profileBlock{
+    margin-left: 300px;
+    background: url(../../assets/images/background.jpg);
+    background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+
+}

@@ -1,0 +1,270 @@
+.main-block{
+    display: flex;
+    justify-content: space-between;
+
+}
+.block-text{
+    text-align: start;
+}
+.block-text h1{
+    font-size: 50px;
+font-weight: 500;
+line-height: 54px;
+letter-spacing: -2px;
+}
+.block-text p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    margin-top:  30px;
+}
+
+ span{
+    color: #3a48f5;
+}
+.block-text button{
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+font-weight: 500;
+line-height: 15px;
+color: white;
+background-color:   #3a48f5;
+border: none;
+border-radius: 15px 15px 15px 15px;
+padding: 12px 73px 12px 73px;
+margin-top: 30px;
+}
+.block-text button:hover{
+    background: black;
+}
+.problem-block{
+    font-family: "Poppins", Sans-serif;
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 88px;
+    letter-spacing: -4.4px;
+}
+.problem-block p{
+    margin: 0;
+}
+.span-problem{
+    font-size: 20px;
+font-weight: 500;
+letter-spacing: -1px;
+}
+
+.problem-block img{
+    margin: 150px 0;
+}
+.blue-block{
+    width: 100%;
+    background: #3a48f5;
+    height: 385px;
+    position: relative;
+}
+.blue-block-text{
+    width: 1200px;
+    height: 192px;
+    position: absolute;             
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%)   
+}
+.blue-block p{
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 1.28em;
+    letter-spacing: -2px;
+    color: white;
+    text-align: center;
+    margin: auto 0;
+}
+.solution-block{
+    display: flex;
+    margin-top: 120px;
+}
+.solution-block span{
+    font-family: "Poppins", Sans-serif;
+font-size: 20px;
+font-weight: 500;
+letter-spacing: -1px;
+
+}
+.p-text{
+    font-family: "Poppins", Sans-serif;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+margin-bottom: 20px;
+}
+.p-label{
+    margin-bottom: 20px;
+    font-family: "Poppins", Sans-serif;
+font-size: 50px;
+font-weight: 500;
+line-height: 54px;
+letter-spacing: -2px;
+}
+.business-block{
+    margin-top: 130px;
+}
+
+.business-product{
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 54px;
+    letter-spacing: -2px;
+    margin-bottom: 15px;
+    
+
+}
+.business-info{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.8px;
+}
+
+.business-product-buy{
+    margin-top: 100px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.product{
+    position: relative;
+    width: 48%;
+    box-shadow: 0px 0px 5px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 20px 20px 20px 20px;
+    margin: 10px;
+    overflow: hidden
+}
+.product img{
+    transition: 1s
+}
+.product img:hover{
+    transform: scale(1.1);
+}
+.product-info{
+    z-index: 5;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.name{
+    font-size: 30px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: -1.6px;
+margin-bottom: 5px;
+}
+
+.name-info{
+    font-size: 12px;
+font-weight: 500;
+line-height: 25px;
+}
+
+.info-buy button{
+    font-size: 12px;
+font-weight: 500;
+line-height: 15px;
+border-radius: 15px 15px 15px 15px;
+padding: 5px 22px 5px 22px;
+background: #3a48f5;
+color: white;
+font-family: "Poppins", Sans-serif;
+border: none;
+margin-right: 10px;
+}
+
+.info-buy a{
+    color: #3A48F5;
+font-family: "Poppins", Sans-serif;
+font-size: 13px;
+font-weight: 500;
+line-height: 25px;
+}
+.all-product{
+    width: 100%;
+}
+.partnership-block{
+    
+    background-image: url("../../assets//images/background.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 1200px;
+
+
+}
+.inputs p{
+    margin: 150px 0;
+    text-align: center;
+    font-family: "Poppins", Sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 54px;
+    letter-spacing: -2px;
+    display: flex;
+    flex-direction: column; 
+    width: 700px;
+}
+.partnership{
+    width: 700px;
+    
+}
+
+.inputs{
+    margin-top: 110px;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+
+.inputs input, textarea{
+    border: none;
+    margin-bottom: 20px;
+    border-radius: 10px 10px 10px 10px;
+    padding: 0 15px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+}
+.inputs input{
+    height: 40px;
+}
+.inputs textarea{
+    height: 80px;
+    padding: 10px 15px;
+    
+  
+}
+.detale-click{
+    display: flex;
+    justify-content: space-between;
+}
+.detale-click p{
+    font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: -0.3px;
+}
+.detale-click button{
+    font-size: 16px;
+font-weight: 700;
+text-transform: none;
+line-height: 40px;
+color: white;
+border-radius: 10px 10px 10px 10px;
+padding: 0px 65px 0px 65px;
+background: #3a48f5;
+border: none;
+}
+

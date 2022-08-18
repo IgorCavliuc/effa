@@ -1,0 +1,35 @@
+.content{
+    align-items: center;
+    width: 1200px;
+    margin: auto;
+}
+
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+
+.effa-logo img{
+    width: 50px;
+}
+.navigation ul{
+    display: flex;
+}
+.navigation li{
+    padding: 5px 33px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    border-bottom: 1px solid transparent;
+    transition: 0.5s;
+    cursor: pointer;
+   
+}
+.navigation li:hover{
+    border-bottom: 1px solid black;
+}
+
+.sign-in{
+    color:#3a48f5;
+}
